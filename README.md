@@ -27,4 +27,5 @@ Pooling layers reduce spatial dimensions, emphasizing key features. Max pooling,
 ## Animations for CNN
 
 https://deeplizard.com/resource/pavq7noze3
+
 https://deeplizard.com/resources
