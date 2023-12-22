@@ -14,15 +14,6 @@ The CNN architecture is composed of:
 
 - **Flatten Operation:** Before fully connected layers, a flatten operation is applied to convert the multi-dimensional tensor into a one-dimensional vector. This operation is crucial for transitioning from convolutional or pooling layers to fully connected layers.
 
-### Convolutional Layer
-
-A convolutional layer involves sliding filters over the input data, performing convolution operations, and generating feature maps. Parameters like kernel size, activation functions, and padding influence the layer's behavior.
-
-### Pooling Layer
-
-Pooling layers reduce spatial dimensions, emphasizing key features. Max pooling, for instance, selects the maximum value in each region. Strides control the step size during pooling.
-
-
 
 ## Animations for CNN
 
